@@ -1,9 +1,16 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #e1f5fe; /* Tono azul cielo claro */
-    color: #333;
+    background-color: rgb(255, 146, 126);
+    color: #fa8500;
     margin: 0;
     padding: 0;
+  }
+
+  h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: underline; 
   }
   
   .container {
@@ -22,9 +29,8 @@ body {
   .section-title {
     font-size: 18px;
     font-weight: bold;
-    color: #2196f3; /* Azul */
+    color: #f3ad21;
     margin-bottom: 10px;
   }
-  
-  /* Ajusta los tonos de azul cielo y azul según tus preferencias */
+
   

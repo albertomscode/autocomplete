@@ -7,7 +7,7 @@ import CheckBoxes from "./components/CheckBoxes";
 export default function Home() {
   return (
     <div className="container">
-      <h1>Welcome to Your Creative Page!</h1>
+      <h1>Welcome to the autocomplete page!</h1>
 
       <div className="section">
         <p className="section-title">Select an employee profile you want to access:</p>
